@@ -44,7 +44,7 @@ let answer = remainder(numerator,denominator);
 function remainder (numerator,denominator){
     return numerator % denominator;
 }
-console.log(remainder = " + answer");
+console.log("remainder =" + answer);
 
 //Answer 6
 alert("Question 6");
