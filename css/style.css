@@ -76,12 +76,12 @@ body {
     }
 
     .card-info {
-    padding: 2em;
+    padding: 1.5em;
     width: 100%;
     }
 
     #group-name {
-    font-size: 0.68em;
+    font-size: 0.65em;
     width: 100%;
     padding-top:1.5em;
     }
