@@ -95,7 +95,7 @@ let T = 2.5;
 let V = 100;
 let S = (P*R*T)/V;
 
-console.log('S.I= N ${S}');
+console.log(`S.I= N ${S}`);
 
 //Answer 10
 
